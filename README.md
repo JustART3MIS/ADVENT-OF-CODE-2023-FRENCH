@@ -1,22 +1,20 @@
 # ADVENT-OF-CODE-2023
-My resolution of the **[Advent of Code](adventofcode.com)** of 2023, mostly in **[Python](https://www.python.org/)**, using easy way to show new programmers way to do it even without being at a high programming level. 
+Mes réponses à l'**[Advent of Code](adventofcode.com)** de 2023, majoritairement en **[Python](https://www.python.org/)**, en utilisant des moyens accessibles afin de montrer aux nouveaux programmeurs un moyen de réussir même sans être à un niveau élevé. 
 
-Why make it complicated when you can make it simple ? :)
-
-
-**------------------------------------------------**
-
-- My IDE (Integrated Development Environment, = programming editor) is  **[Visual Studio Code](https://code.visualstudio.com/download)**, wich I consider useful for new programmers since it has highlights and color schemes that are easily understandable and
-help a lot understanding a language's syntax, especially Python.
-
-- If you're stuck somewhere in your code, not finding where is the problem, I suggest that you start to use **[Python Tutor](https://pythontutor.com/visualize.html#mode=edit)**
-  wich executes a code line by line and graphically shows you what it does.
+Pourquoi faire compliqué quand on peut faire simple ? :)
 
 **------------------------------------------------**
 
-<3 | I'd like to give my thanks to @kewanfr for giving me the idea of making a GitHub Project out of it.
+- Mon **IDE** (Integrated Development Environment, = Editeur de programmation) est  **[Visual Studio Code](https://code.visualstudio.com/download)**, que je considère adapté pour les nouveaux programmeurs puisqu'il contient un **système de couleurs** et de **résolution des erreurs** qui sont facilement compréhensibles et qui aident beaucoup à comprendre la **syntaxe d'un langage**, notamment Python.
+
+- Si vous êtes bloqués à un endroit dans votre code, sans trouver d'où vient le problème, je vous suggère de commencer à utiliser **[Python Tutor](https://pythontutor.com/visualize.html#mode=edit)**
+  qui exécute votre code ligne par ligne et vou donne une présentation graphique de ce qu'il fait.
 
 **------------------------------------------------**
 
-If you're interested in the way I've done things, or you would like to learn about programming, whether it's at a high or beginner level
-DM me ! My discord is in my profile !
+<3 | Merci à @kewanfr pour m'avoir donné l'idée de faire un Projet GitHub.
+
+**------------------------------------------------**
+
+Si vous êtes intéressés par la manière dont j'ai fait les choses, ou que vous souhaitez apprendre plus sur la programmation, que ce soie à haut niveau ou en débutant, 
+Envoyez moi un message privé ! Mon discord est sur mon profil
